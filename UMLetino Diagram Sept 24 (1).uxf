@@ -47,8 +47,7 @@ m2pos=-15,-14</panel_attributes><additional_attributes>10;10;200;120</additional
 --
 login: String
 password: Strin
-</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>720</x><y>648</y><w>36</w><h>120</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;80</additional_attributes></element><element><id>Relation</id><coordinates><x>804</x><y>648</y><w>108</w><h>120</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;70;80</additional_attributes></element><element><id>Relation</id><coordinates><x>420</x><y>576</y><w>312</w><h>48</h></coordinates><panel_attributes>lt=&lt;.
-&lt;&lt;reseñar y/o calificar&gt;&gt;</panel_attributes><additional_attributes>10;20;240;20</additional_attributes></element><element><id>UMLClass</id><coordinates><x>0</x><y>264</y><w>156</w><h>60</h></coordinates><panel_attributes>RevisarRecurso
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>720</x><y>648</y><w>36</w><h>120</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;80</additional_attributes></element><element><id>Relation</id><coordinates><x>804</x><y>648</y><w>108</w><h>120</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;70;80</additional_attributes></element><element><id>UMLClass</id><coordinates><x>0</x><y>264</y><w>156</w><h>60</h></coordinates><panel_attributes>RevisarRecurso
 --
 tipoRecurso: String
 </panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>216</x><y>264</y><w>156</w><h>72</h></coordinates><panel_attributes>Tarea
