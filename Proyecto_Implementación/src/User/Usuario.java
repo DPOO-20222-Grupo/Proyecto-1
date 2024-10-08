@@ -1,6 +1,6 @@
 package User;
 
-public class Usuario {
+public abstract class Usuario {
 
     public void revisarLearningPath(){
 
