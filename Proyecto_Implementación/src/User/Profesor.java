@@ -22,6 +22,6 @@ public class Profesor {
     }
 
     public void clonarLP(){
-        
+
     }
 }
