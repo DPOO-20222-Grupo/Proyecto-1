@@ -1,6 +1,14 @@
 package User;
 
-public class Profesor {
+public class Profesor extends Usuario {
+    
+    // Constructor
+    public Profesor(String login, String password) {
+        super(login, password);
+    }
+
+    // Metodos Adicionales
+
     public void crearActividad(){
 
     }

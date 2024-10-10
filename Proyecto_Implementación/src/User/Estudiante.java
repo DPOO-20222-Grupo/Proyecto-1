@@ -1,6 +1,13 @@
 package User;
 
-public class Estudiante {
+public class Estudiante extends Usuario {
+
+    // Constructor
+    public Estudiante(String login, String password) {
+        super(login, password);
+    }
+
+    // Métodos adicionales 
     public void inscribirseLP(){
 
     }
@@ -8,5 +15,4 @@ public class Estudiante {
     public void iniciarActividad(){
 
     }
-
 }
